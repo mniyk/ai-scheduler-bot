@@ -1,0 +1,10 @@
+/target
+
+# 環境変数 (トークン等の機密情報)
+.env
+
+# SQLite データベースファイル
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
